@@ -1,0 +1,26 @@
+.main{
+  margin:2%;
+  border:1px solid black;
+  display:flex;
+  flex-direction:row;
+}
+.left img{
+  justify-content: center;
+  margin:2%;
+  border:1px solid blue;
+  padding:1%;
+  width:50%;
+  margin-left: auto;
+
+}
+.right{
+  justify-content: center;
+  margin:2%;
+  border:1px solid blue;
+  padding:1%;
+  width:50%;
+  margin-left: auto;
+}
+.table1{
+  overflow-x: auto;
+}
