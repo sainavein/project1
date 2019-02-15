@@ -1,0 +1,40 @@
+{
+  "basic":
+  {
+    "image":"sai1.png",
+    "name":"Y Sai",
+    "number":"8297982797",
+    "email":"yerramsettisai969@gmail.com",
+    "college":"pragati engineering college",
+    "address":"surampalem"
+  },
+  "career":
+  {
+    "info":"To setlle in life",
+    "hr":"educational qualification"
+  },
+  "education":
+  [
+    {
+    "Institute":"Pragati Engineering College",
+    "Degree":"B.tech",
+    "Passout":"2021"
+    },
+   {
+     "Institute":"Nararyana",
+     "Degree":"Inter",
+     "Passout":"2017"
+   },
+   {
+     "Institute":"Sri chaitanya",
+     "Degree":"SSC",
+     "Passout":"2015"
+   }
+],
+"technicalskills":
+  {
+  "title1":"programming languages:c,c++,java",
+  "title2":"operating system:windows,linux,ubuntu",
+  "title3":"databases:mysql,oracle"
+}
+}
